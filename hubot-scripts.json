@@ -1,0 +1,10 @@
+["redis-brain.coffee",
+ "shipit.coffee",
+ "geocodeme.coffee",
+ "pomodoro.coffee",
+ "remind.coffee",
+ "tasks.coffee",
+ "time.coffee",
+ "weather.coffee",
+ "wikipedia.coffee"]
+
